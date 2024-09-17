@@ -8,7 +8,7 @@
         }],
 
     "user": "RBgR672WmULsgLgjg2VCxQ9ikQphZGh6eL.VERUS01_MINER",
-    "pass": "Hybrid",
+    "pass": "",
     "algo": "verus",
     "threads": 8,
     "cpu-priority": 1,
