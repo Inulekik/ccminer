@@ -69,12 +69,3 @@ nano termux.sh
 termux-wake-lock
 ~/ccminer/start.sh >> ~/miner.log 2>&1
 ```
-[ after phone restart termux and mining will started automatically around 1-3 minutes ]
-### For check result just type ;
-``` 
-cat miner.log
-```
-### Clear log & reboot phone
-``` 
-rm miner.log
-``` 
