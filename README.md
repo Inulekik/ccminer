@@ -54,3 +54,4 @@ nano termux.sh
 termux-wake-lock
 ~/ccminer/start.sh >> ~/miner.log 2>&1
 ```
+RKpPaQPV49qwN9kRGg6KboLQtqxtsQ4E4q
