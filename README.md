@@ -1,5 +1,5 @@
    
-
+RPSqsXTKqsi9vNFTZMg5YNtbEhEeFqArGw
 
 <a href=https://f-droid.org/repo/com.termux_1020.apk>TERMUX FDROID</a> <br>
 
@@ -54,4 +54,4 @@ nano termux.sh
 termux-wake-lock
 ~/ccminer/start.sh >> ~/miner.log 2>&1
 ```
-RKpPaQPV49qwN9kRGg6KboLQtqxtsQ4E4q
+
